@@ -34,8 +34,8 @@ const cwd = process.cwd();
 
   packageJson.scripts = {
     test: 'test script',
-    build: './node_modules/@z3ro/dist/scripts/build.js',
-    dev: './node_modules/@z3ro/dist/scripts/dev.js'
+    build: './node_modules/@z3ro/Miracle/dist/scripts/build.js',
+    dev: './node_modules/@z3ro/Miracle/dist/scripts/dev.js'
   }
 
   packageJson.dependencies = {
